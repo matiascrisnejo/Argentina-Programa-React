@@ -1,0 +1,20 @@
+@import url('https://fonts.googleapis.com/css2?family=Carrois+Gothic+SC&display=swap');
+
+
+.contenedor1{
+  padding-top: 50px;
+  padding-bottom: 25px;
+}
+
+.registroCliente{
+  text-align: center;
+  align-items: center;
+  font-family: 'Carrois Gothic SC', sans-serif;
+}
+
+.listadoClientes{
+  text-align: center;
+  align-items: center;
+  font-family: 'Carrois Gothic SC', sans-serif;
+}
+
